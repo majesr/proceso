@@ -1,0 +1,24 @@
+<!-- ============================================================== -->
+<!-- Stats box -->
+<!-- ============================================================== -->
+<div class="container">
+    <div class="row">
+        <div class="col-4" *ngFor="let c of categorias ">
+            <div class="card">
+                <div class="card-body">
+                    <div class="d-flex">
+                        <div class="m-r-20 align-self-center"><img src="../assets/images/icon/income.png" alt="Income" /></div>
+                        <div class="align-self-center">
+                            <h6 class="text-muted m-t-10 m-b-0">{{ c.descripcion}}</h6>
+                            <h4 class="m-t-0"> <a href="javascript:void(0)" class="m-t-10 m-b-20 waves-effect waves-dark btn btn-success btn-md btn-rounded">Pagar</a>
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ============================================================== -->
+    <!-- Sales overview chart -->
+    <!-- ============================================================== -->

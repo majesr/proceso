@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CategoriasService, Categoria } from '../../services/categorias.service';
 
-
 @Component({
   selector: 'app-inicio',
   templateUrl: './inicio.component.html',
@@ -18,5 +17,6 @@ export class InicioComponent implements OnInit {
       this.categorias = response;
     });
   }
+
   }
 

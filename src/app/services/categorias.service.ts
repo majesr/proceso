@@ -8,6 +8,8 @@ export interface Categoria{
   activo: string;
 }
 
+
+
 @Injectable({
   providedIn: 'root'
 })
@@ -15,7 +17,11 @@ export class CategoriasService {
   private url = 'https://jgitsolutions.com/daleapp/dale/categoria';
 
   constructor(private http: HttpClient) { }
+  // Obtener categorias
   getAll(){
     return this.http.get<[Categoria]>(this.url);
   }
+
+  // Obtenener servicios por categoria
+
 }

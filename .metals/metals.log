@@ -1,3 +1,25 @@
 2020.06.28 23:31:30 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\MAJESR\Desktop\Angular\Original\mande'
 2020.06.28 23:31:40 INFO  time: initialize in 10s
 2020.06.28 23:31:56 WARN  no build tool detected in workspace 'C:\Users\MAJESR\Desktop\Angular\Original\mande'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.06.29 21:20:23 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\MAJESR\Desktop\Angular\Original\mande'
+2020.06.29 21:20:29 INFO  time: initialize in 5.48s
+2020.06.29 21:20:46 WARN  no build tool detected in workspace 'C:\Users\MAJESR\Desktop\Angular\Original\mande'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.06.30 00:53:24 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\MAJESR\Desktop\Angular\Original\mande'
+2020.06.30 00:53:38 INFO  time: initialize in 13s
+2020.06.30 00:54:11 WARN  no build tool detected in workspace 'C:\Users\MAJESR\Desktop\Angular\Original\mande'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+jun 30, 2020 1:05:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+jun 30, 2020 1:10:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+jun 30, 2020 1:10:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+jun 30, 2020 1:10:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+jun 30, 2020 1:10:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+jun 30, 2020 1:10:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+2020.06.30 11:21:28 INFO  started: Metals version 0.9.0 in workspace 'C:\Users\MAJESR\Desktop\Angular\Original\mande'
+2020.06.30 11:21:31 INFO  time: initialize in 3.48s
+2020.06.30 11:21:41 WARN  no build tool detected in workspace 'C:\Users\MAJESR\Desktop\Angular\Original\mande'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.06.30 11:49:17 INFO  shutting down Metals
